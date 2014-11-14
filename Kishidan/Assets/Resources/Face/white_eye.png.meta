@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: eaf64b55030fcfa47a078f4aea654204
+guid: 7335c9c42b0861046865531e28f64546
 TextureImporter:
   fileIDToRecycleName:
     21300000: white_eye_0
@@ -45,7 +45,7 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 1024
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1

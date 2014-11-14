@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 375535270eba16b4e8e04622e6e918af
+guid: 80343489d8ddb9f449c8248cb2a03312
 TextureImporter:
   fileIDToRecycleName:
     21300000: black_eye_0
@@ -38,7 +38,7 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 1024
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1

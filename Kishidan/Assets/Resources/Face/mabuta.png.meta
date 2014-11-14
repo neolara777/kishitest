@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a4fb5dc91e847ba4e87358e667021788
+guid: 64c19b779a9dd40428166a4fced6d86b
 TextureImporter:
   fileIDToRecycleName:
     21300000: mabuta_0
@@ -45,7 +45,7 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 1024
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1

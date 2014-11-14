@@ -1,16 +1,17 @@
 fileFormatVersion: 2
-guid: 2ecc4afe83335484fbf849dfaa2ff947
+guid: eb29f299a7f26da47a21c8e50a4cb64e
 TextureImporter:
   fileIDToRecycleName:
-    21300000: mouth_0
-    21300002: mouth_1
-    21300004: mouth_2
-    21300006: mouth_3
-    21300008: mouth_4
-    21300010: mouth_5
-    21300012: mouth_6
-    21300014: mouth_7
-    21300016: mouth_8
+    21300000: double_front_hair_left_0
+    21300002: double_front_hair_left_1
+    21300004: double_front_hair_left_2
+    21300006: double_front_hair_left_3
+    21300008: double_front_hair_left_4
+    21300010: double_front_hair_left_5
+    21300012: double_front_hair_left_6
+    21300014: double_front_hair_left_7
+    21300016: double_front_hair_left_8
+    21300018: double_front_hair_left_9
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -33,7 +34,7 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 1024
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -52,7 +53,17 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: mouth_0
+    - name: double_front_hair_left_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: double_front_hair_left_1
       rect:
         serializedVersion: 2
         x: 0
@@ -62,7 +73,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: mouth_1
+    - name: double_front_hair_left_2
       rect:
         serializedVersion: 2
         x: 0
@@ -72,7 +83,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: mouth_2
+    - name: double_front_hair_left_3
       rect:
         serializedVersion: 2
         x: 0
@@ -82,7 +93,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: mouth_3
+    - name: double_front_hair_left_4
       rect:
         serializedVersion: 2
         x: 0
@@ -92,7 +103,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: mouth_4
+    - name: double_front_hair_left_5
       rect:
         serializedVersion: 2
         x: 0
@@ -102,7 +113,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: mouth_5
+    - name: double_front_hair_left_6
       rect:
         serializedVersion: 2
         x: 0
@@ -112,7 +123,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: mouth_6
+    - name: double_front_hair_left_7
       rect:
         serializedVersion: 2
         x: 0
@@ -122,7 +133,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: mouth_7
+    - name: double_front_hair_left_8
       rect:
         serializedVersion: 2
         x: 0
@@ -132,7 +143,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: mouth_8
+    - name: double_front_hair_left_9
       rect:
         serializedVersion: 2
         x: 0

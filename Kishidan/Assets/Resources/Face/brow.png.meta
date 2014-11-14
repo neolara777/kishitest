@@ -1,17 +1,16 @@
 fileFormatVersion: 2
-guid: 853bd02c0d4a9034482c9caf7f5f2541
+guid: 53d50dbdaf360354987730f71f9c587e
 TextureImporter:
   fileIDToRecycleName:
-    21300000: double_front_hair_left_0
-    21300002: double_front_hair_left_1
-    21300004: double_front_hair_left_2
-    21300006: double_front_hair_left_3
-    21300008: double_front_hair_left_4
-    21300010: double_front_hair_left_5
-    21300012: double_front_hair_left_6
-    21300014: double_front_hair_left_7
-    21300016: double_front_hair_left_8
-    21300018: double_front_hair_left_9
+    21300000: brow_0
+    21300002: brow_1
+    21300004: brow_2
+    21300006: brow_3
+    21300008: brow_4
+    21300010: brow_5
+    21300012: brow_6
+    21300014: brow_7
+    21300016: brow_8
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -34,7 +33,7 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 1024
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -53,7 +52,17 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: double_front_hair_left_0
+    - name: brow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brow_1
       rect:
         serializedVersion: 2
         x: 0
@@ -63,7 +72,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: double_front_hair_left_1
+    - name: brow_2
       rect:
         serializedVersion: 2
         x: 0
@@ -73,7 +82,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: double_front_hair_left_2
+    - name: brow_3
       rect:
         serializedVersion: 2
         x: 0
@@ -83,7 +92,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: double_front_hair_left_3
+    - name: brow_4
       rect:
         serializedVersion: 2
         x: 0
@@ -93,7 +102,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: double_front_hair_left_4
+    - name: brow_5
       rect:
         serializedVersion: 2
         x: 0
@@ -103,7 +112,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: double_front_hair_left_5
+    - name: brow_6
       rect:
         serializedVersion: 2
         x: 0
@@ -113,27 +122,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: double_front_hair_left_6
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 138
-        width: 46
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: double_front_hair_left_7
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 92
-        width: 46
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: double_front_hair_left_8
+    - name: brow_7
       rect:
         serializedVersion: 2
         x: 0
@@ -143,7 +132,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: double_front_hair_left_9
+    - name: brow_8
       rect:
         serializedVersion: 2
         x: 0

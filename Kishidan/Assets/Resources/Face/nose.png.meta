@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 0a8b3bd8d7e05b74384f5d1d78f638d9
+guid: 6c2affe1d3a9ddd45b012984fdc83a57
 TextureImporter:
   fileIDToRecycleName:
-    21300000: brow_0
-    21300002: brow_1
-    21300004: brow_2
-    21300006: brow_3
-    21300008: brow_4
-    21300010: brow_5
-    21300012: brow_6
-    21300014: brow_7
-    21300016: brow_8
+    21300000: nose_0
+    21300002: nose_1
+    21300004: nose_2
+    21300006: nose_3
+    21300008: nose_4
+    21300010: nose_5
+    21300012: nose_6
+    21300014: nose_7
+    21300016: nose_8
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -33,7 +33,7 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 1024
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -52,27 +52,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: brow_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 460
-        width: 46
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: brow_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 414
-        width: 46
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: brow_2
+    - name: nose_0
       rect:
         serializedVersion: 2
         x: 0
@@ -82,7 +62,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: brow_3
+    - name: nose_1
       rect:
         serializedVersion: 2
         x: 0
@@ -92,7 +72,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: brow_4
+    - name: nose_2
       rect:
         serializedVersion: 2
         x: 0
@@ -102,7 +82,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: brow_5
+    - name: nose_3
       rect:
         serializedVersion: 2
         x: 0
@@ -112,7 +92,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: brow_6
+    - name: nose_4
       rect:
         serializedVersion: 2
         x: 0
@@ -122,7 +102,27 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: brow_7
+    - name: nose_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nose_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nose_7
       rect:
         serializedVersion: 2
         x: 0
@@ -132,7 +132,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: brow_8
+    - name: nose_8
       rect:
         serializedVersion: 2
         x: 0

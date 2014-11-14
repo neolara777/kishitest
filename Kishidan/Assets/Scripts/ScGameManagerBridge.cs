@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class GameManager : MonoBehaviour {
-	public int age = 1;
+public class ScGameManagerBridge : MonoBehaviour {
+
 	// Use this for initialization
 	void Start () {
 	
@@ -14,15 +14,10 @@ public class GameManager : MonoBehaviour {
 	}
 
 	public void IncreaseAge () {
-		this.age++;		
+		GameManager.IncreaseAge ();		
 	}
 
 	public void DereaseAge () {
-		this.age--;		
+		GameManager.DereaseAge ();		
 	}
-
-	public int GetAge() {
-		return this.age;
-	}
-	
 }

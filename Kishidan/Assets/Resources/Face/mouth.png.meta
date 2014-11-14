@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 9cf8ae6ede5124642bc638e4b89f8d2c
+guid: c5fcdd981a975ca48b77d836f617a45e
 TextureImporter:
   fileIDToRecycleName:
-    21300000: nose_0
-    21300002: nose_1
-    21300004: nose_2
-    21300006: nose_3
-    21300008: nose_4
-    21300010: nose_5
-    21300012: nose_6
-    21300014: nose_7
-    21300016: nose_8
+    21300000: mouth_0
+    21300002: mouth_1
+    21300004: mouth_2
+    21300006: mouth_3
+    21300008: mouth_4
+    21300010: mouth_5
+    21300012: mouth_6
+    21300014: mouth_7
+    21300016: mouth_8
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -33,7 +33,7 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 1024
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -52,7 +52,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: nose_0
+    - name: mouth_0
       rect:
         serializedVersion: 2
         x: 0
@@ -62,7 +62,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: nose_1
+    - name: mouth_1
       rect:
         serializedVersion: 2
         x: 0
@@ -72,7 +72,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: nose_2
+    - name: mouth_2
       rect:
         serializedVersion: 2
         x: 0
@@ -82,7 +82,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: nose_3
+    - name: mouth_3
       rect:
         serializedVersion: 2
         x: 0
@@ -92,7 +92,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: nose_4
+    - name: mouth_4
       rect:
         serializedVersion: 2
         x: 0
@@ -102,7 +102,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: nose_5
+    - name: mouth_5
       rect:
         serializedVersion: 2
         x: 0
@@ -112,7 +112,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: nose_6
+    - name: mouth_6
       rect:
         serializedVersion: 2
         x: 0
@@ -122,7 +122,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: nose_7
+    - name: mouth_7
       rect:
         serializedVersion: 2
         x: 0
@@ -132,7 +132,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: nose_8
+    - name: mouth_8
       rect:
         serializedVersion: 2
         x: 0

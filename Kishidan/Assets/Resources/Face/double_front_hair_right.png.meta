@@ -1,15 +1,17 @@
 fileFormatVersion: 2
-guid: 2d70419ce07320f46bdb58fd69f564b0
+guid: 37f15ba99abf1f24088376a42298476a
 TextureImporter:
   fileIDToRecycleName:
-    21300000: face_0
-    21300002: face_1
-    21300004: face_2
-    21300006: face_3
-    21300008: face_4
-    21300010: face_5
-    21300012: face_6
-    21300014: face_7
+    21300000: double_front_hair_right_0
+    21300002: double_front_hair_right_1
+    21300004: double_front_hair_right_2
+    21300006: double_front_hair_right_3
+    21300008: double_front_hair_right_4
+    21300010: double_front_hair_right_5
+    21300012: double_front_hair_right_6
+    21300014: double_front_hair_right_7
+    21300016: double_front_hair_right_8
+    21300018: double_front_hair_right_9
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -32,7 +34,7 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 1024
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -51,7 +53,27 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: face_0
+    - name: double_front_hair_right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: double_front_hair_right_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: double_front_hair_right_2
       rect:
         serializedVersion: 2
         x: 0
@@ -61,7 +83,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: face_1
+    - name: double_front_hair_right_3
       rect:
         serializedVersion: 2
         x: 0
@@ -71,7 +93,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: face_2
+    - name: double_front_hair_right_4
       rect:
         serializedVersion: 2
         x: 0
@@ -81,7 +103,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: face_3
+    - name: double_front_hair_right_5
       rect:
         serializedVersion: 2
         x: 0
@@ -91,7 +113,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: face_4
+    - name: double_front_hair_right_6
       rect:
         serializedVersion: 2
         x: 0
@@ -101,7 +123,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: face_5
+    - name: double_front_hair_right_7
       rect:
         serializedVersion: 2
         x: 0
@@ -111,7 +133,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: face_6
+    - name: double_front_hair_right_8
       rect:
         serializedVersion: 2
         x: 0
@@ -121,7 +143,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: face_7
+    - name: double_front_hair_right_9
       rect:
         serializedVersion: 2
         x: 0

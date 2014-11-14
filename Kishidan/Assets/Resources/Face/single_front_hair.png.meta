@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5879e5281fa882943a8b70157aab3e00
+guid: 356851aef6998fe48b81021a4e150d81
 TextureImporter:
   fileIDToRecycleName:
     21300000: single_front_hair_0
@@ -50,7 +50,7 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 1024
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1
