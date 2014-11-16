@@ -12,7 +12,7 @@ public class ScFaceField : MonoBehaviour {
 		//foreach(Transform child in transform) {
 		//	print(child.name + ":" + child.localPosition);
 		//}
-		GoRightBackHair = gameObject.transform.FindChild("RightBackHair").gameObject;
+		GoRightBackHair = gameObject.transform.FindChild("BackHairRight").gameObject;
 		SrRightBackHair = GoRightBackHair.GetComponent<SpriteRenderer>();
 
 		Sprite[] sprites = Resources.LoadAll<Sprite>("Face/neck");

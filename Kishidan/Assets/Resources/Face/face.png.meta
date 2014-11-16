@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 833393158069cf74e90f7bb4dda9c7ef
+guid: bc3cf46c6d2b6a248b5fc3f44622bf1a
 TextureImporter:
   fileIDToRecycleName:
     21300000: face_0
@@ -10,6 +10,22 @@ TextureImporter:
     21300010: face_5
     21300012: face_6
     21300014: face_7
+    21300016: face_8
+    21300018: face_9
+    21300020: face_10
+    21300022: face_11
+    21300024: face_12
+    21300026: face_13
+    21300028: face_14
+    21300030: face_15
+    21300032: face_16
+    21300034: face_17
+    21300036: face_18
+    21300038: face_19
+    21300040: face_20
+    21300042: face_21
+    21300044: face_22
+    21300046: face_23
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -64,8 +80,8 @@ TextureImporter:
     - name: face_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 276
+        x: 46
+        y: 322
         width: 46
         height: 46
       alignment: 0
@@ -74,8 +90,8 @@ TextureImporter:
     - name: face_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 230
+        x: 92
+        y: 322
         width: 46
         height: 46
       alignment: 0
@@ -85,7 +101,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 184
+        y: 276
         width: 46
         height: 46
       alignment: 0
@@ -94,8 +110,8 @@ TextureImporter:
     - name: face_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 138
+        x: 46
+        y: 276
         width: 46
         height: 46
       alignment: 0
@@ -104,8 +120,8 @@ TextureImporter:
     - name: face_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 92
+        x: 92
+        y: 276
         width: 46
         height: 46
       alignment: 0
@@ -115,7 +131,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 46
+        y: 230
         width: 46
         height: 46
       alignment: 0
@@ -124,7 +140,167 @@ TextureImporter:
     - name: face_7
       rect:
         serializedVersion: 2
+        x: 46
+        y: 230
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: face_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 230
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: face_9
+      rect:
+        serializedVersion: 2
         x: 0
+        y: 184
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: face_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 184
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: face_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 184
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: face_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: face_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 138
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: face_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 138
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: face_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: face_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 92
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: face_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 92
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: face_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: face_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 46
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: face_20
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 46
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: face_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: face_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: face_23
+      rect:
+        serializedVersion: 2
+        x: 92
         y: 0
         width: 46
         height: 46
