@@ -20,4 +20,15 @@ public class ScGameManagerBridge : MonoBehaviour {
 	public void DereaseAge () {
 		GameManager.DereaseAge ();		
 	}
+
+	public void CameraChange () {
+		GameManager.CameraChange ();		
+	}
+	public void CameraChange2 () {
+		GameManager.CameraChange2 ();		
+	}
+
+	public void CanvasChange () {
+		GameManager.CanvasChange ();		
+	}
 }

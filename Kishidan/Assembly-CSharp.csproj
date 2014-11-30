@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\ScFaceField.cs" />
      <Compile Include="Assets\Scripts\ScGameManagerBridge.cs" />
+     <Compile Include="Assets\Scripts\ScLogo.cs" />
      <Compile Include="Assets\Scripts\Sc_Bt_up.cs" />
      <Compile Include="Assets\Scripts\Sc_Tx_update.cs" />
  <Reference Include="UnityEngine.UI">
